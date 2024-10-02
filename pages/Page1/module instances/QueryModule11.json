@@ -1,0 +1,25 @@
+{
+  "gitSyncId": "975df698-7d68-43e5-a3cd-9fe9b0cd12cb_3629851b-cb5a-40d3-838b-32bd4c7354a0",
+  "id": "Page1_QueryModule11",
+  "moduleUUID": "020e72b6-a06f-4574-bd39-b865c1096554",
+  "packageUUID": "15ff7386-cf34-4e16-9004-30a80a1e2426",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "21"
+    },
+    "moduleInputs": {
+      "lourdjwnbb": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2",
+        "id": "lourdjwnbb",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
+    "name": "QueryModule11",
+    "pageId": "Page1",
+    "version": "0.0.2"
+  }
+}
